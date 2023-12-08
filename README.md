@@ -3,6 +3,8 @@ Proyecto donde se desarrolla una base de datos que emula un negocio de comercio 
 
 Se entrega el documento donde se especifican las necesidades del sistema para su correcto su funcionamiento.
 
+#Tablas
+
 Tabla: despacho
 NUM_DESPACHO (int): Identificador único del despacho.
 ID_EMPLEADO (int): Identificador del empleado asociado al despacho.
